@@ -16,7 +16,11 @@ To add this do the following
 3. Copy `popup.js` to the root or host the file on a server
 4. Add a reference to the popup.js file
    ```
-   script src="popup.js"></script>
+   <script src="popup.js"></script>
+   ```
+   Or for testing
+   ```
+   <script src="[popup.js](https://antonlungameni.github.io/FlyNamibia/popup.js)"></script>
    ```
 
    ## License
