@@ -8,7 +8,7 @@ window.onload = function () {
             imageUrl: 'https://storage.aerocrs.com/394/system/FlyNamibia_logo_colored.png',
             imageHeight: 100,
             imageAlt: 'A tall image',
-            html: ' <p style="text-align: center; font-weight: bold;">We are moving to a new booking system.</p>  <p style="text-align: center; font-weight: bold;">To book flights book flights before or on 27 August 2021, please stay on this site.</p><p style="text-align: center; font-weight: bold;">To book flights from 28 August 2021 onwards, please visit our new site at <a href="https://www.flynam.com">www.flynam.com</a> </p></div>',
+            html: ' <p style="text-align: center; font-weight: bold;">We are moving to a new booking system.</p>  <p style="text-align: center; font-weight: bold;">To book flights before or on 27 August 2023, please stay on this site.</p><p style="text-align: center; font-weight: bold;">To book flights from 28 August 2023 onwards, please visit our new site at <a href="https://www.flynam.com">www.flynam.com</a> </p></div>',
             showCancelButton: true,
             showDenyButton: true,
             confirmButtonText: 'View New Site',
