@@ -20,7 +20,7 @@ To add this do the following
    ```
    Or for testing
    ```
-   <script src="[popup.js](https://antonlungameni.github.io/FlyNamibia/popup.js)"></script>
+   <script src="https://antonlungameni.github.io/FlyNamibia/popup.js"></script>
    ```
 
    ## License
