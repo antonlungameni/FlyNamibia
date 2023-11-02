@@ -1,7 +1,7 @@
 // Wait for the page to load
 window.onload = function () {
     // Wait for 3 seconds
-    setTimeout(function () {
+    /*setTimeout(function () {
         // Show the popup
         Swal.fire({
             title: 'New Booking System',
@@ -28,5 +28,6 @@ window.onload = function () {
                 window.location.href = 'https://www.flynamibiasafari.com.na/';
             }
         });;
-    }, 3000);
+    }, 3000); 
+    */
 };
